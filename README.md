@@ -14,8 +14,12 @@ Functionalities and Pages:-
 -> Individual Chat Pages.
 
 Technologies Used:
-Flutter
-Dart
-Firebase Authentication
-FireStore
-**
+
+-> Flutter
+  
+-> Dart
+  
+-> Firebase Authentication
+  
+->  FireStore
+
