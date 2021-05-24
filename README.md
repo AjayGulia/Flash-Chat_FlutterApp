@@ -1,4 +1,4 @@
-**This is a Flutter based modern Android and iOS messageing App.
+This is a Flutter based modern Android and iOS messageing App.
 Users can send personal messages to other users.
 Profile can be edited and other user profile can be seen.
 We have developed prototypes for graphics in Figma .
